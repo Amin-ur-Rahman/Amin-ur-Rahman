@@ -11,7 +11,14 @@ I'm Aminur Rahman, a passionate frontend developer from Bangladesh who believes 
 
 ## 🚀 What I'm Building Right Now
 
+**[styleDecor](https://style-decor-amin-ur-rahman.netlify.app/)** -A comprehensive decoration service management system designed to streamline the booking, management, and execution of decoration services for various events including weddings, home interiors, office setups, and celebrations. 
+
+## My recent projects
 **[Local Food Lovers](https://local-food-lovers-amin-ur-rahman.netlify.app/)** - A food review application that connects food enthusiasts with local culinary gems. Built with modern web technologies to create an engaging user experience.
+
+**[GameVerse](https://ph-assignment-09-amin-ur-rahman.netlify.app/)** - GameVerse is a stylish, React-based gaming portal where users can explore modern video games, view detailed information, and stay updated with upcoming releases.
+
+**[SU.apk](https://su-apk-amin-ur-rahman.netlify.app/)** - SU.apk is a simple and fast web platform for browsing and downloading Android apps. It features live search, clean UI, and instant APK access, all built with React and Tailwind for a smooth user experience.
 
 ---
 
@@ -32,6 +39,7 @@ const frontendSkills = {
 -  MongoDB for robust data management
 -  Building production-ready MERN stack applications
 -  Next.js for fast and SEO optimized web applications
+-  Diving deeper into AI and Automation for more user interactive apps
 
 **Design & Development Tools**
 
