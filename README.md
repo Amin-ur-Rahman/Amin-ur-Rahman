@@ -28,14 +28,15 @@ const frontendSkills = {
 ```
 
 **Currently Expanding Into**
-- 🔥 Express.js & Node.js for full-stack capabilities
-- 🍃 MongoDB for robust data management
-- 🎯 Building production-ready MERN stack applications
+-  Express.js & Node.js for full-stack capabilities
+-  MongoDB for robust data management
+-  Building production-ready MERN stack applications
+-  Next.js for fast and SEO optimized web applications
 
 **Design & Development Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,firebase,git,figma,postman,photoshop" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,figma,postman,photoshop" alt="Tech Stack" />
 </p>
 
 ---
