@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./bannerDec2025.jpg)
 # 👋 Welcome to My Digital Workshop
 
 > **Frontend Developer** | **Problem Solver** | **Building Delightful Web Experiences**
